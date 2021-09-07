@@ -1,2 +1,2 @@
-# Hackathon - Django Backend
+# Django API Backend
 
